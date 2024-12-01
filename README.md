@@ -1,1 +1,1 @@
-# Hostel-Accomodation-System
+# HOSTEL ACCOMODATION SYSTEM
