@@ -1,1 +1,2 @@
 # HOSTEL ACCOMODATION SYSTEM
+Using c++ and sql
